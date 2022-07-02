@@ -32,7 +32,7 @@ To get started, please take a look at the 'Issues' tab, where you will find open
 -
 
 ## Screenshots
--
+
 <table>
 <tr><td><img src="https://github.com/Furkannc/Tip-Calculator-Kotlin/blob/main/ss/ss2.jpg?raw=true" heigth=700 width=300></td>
 <td><img src="https://github.com/Furkannc/Tip-Calculator-Kotlin/blob/main/ss/ss3.jpg?raw=true" heigth=700 width=300></td></tr>
