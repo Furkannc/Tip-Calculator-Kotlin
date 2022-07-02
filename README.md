@@ -26,12 +26,12 @@ Contributions are always welcome!
 To get started, please take a look at the 'Issues' tab, where you will find open issues that exist with the project. If you see one that interests you, simply create a branch and submit a PR for review and approval.
 
 
-
-## Screenshots
-
 ### Inspiration Url:	https://dribbble.com/shots/7885866-Tip-Calculator
 
 ![ss](https://github.com/Furkannc/Tip-Calculator-Kotlin/blob/main/ss/ss1.jpg?raw=true)
+-
+
+## Screenshots
 -
 <table>
 <tr><td><img src="https://github.com/Furkannc/Tip-Calculator-Kotlin/blob/main/ss/ss2.jpg?raw=true" heigth=700 width=300></td>
